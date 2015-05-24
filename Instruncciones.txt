@@ -1,0 +1,3 @@
+Primero es necesario registrarse, para poder tener un número de usuario para hacer el registro de las ventas
+teniendo el registro de las ventas ya se puede consultar el archivo para ver el contenido de las ventas que
+ha realizado algun empleado
